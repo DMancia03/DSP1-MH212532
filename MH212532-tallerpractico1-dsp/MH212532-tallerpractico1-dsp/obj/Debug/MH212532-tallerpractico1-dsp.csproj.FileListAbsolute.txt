@@ -1,0 +1,10 @@
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\bin\Debug\MH212532-tallerpractico1-dsp.exe.config
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\bin\Debug\MH212532-tallerpractico1-dsp.exe
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\bin\Debug\MH212532-tallerpractico1-dsp.pdb
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\obj\Debug\MH212532-tallerpractico1-dsp.csproj.AssemblyReference.cache
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\obj\Debug\MH212532_tallerpractico1_dsp.Form1.resources
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\obj\Debug\MH212532_tallerpractico1_dsp.Properties.Resources.resources
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\obj\Debug\MH212532-tallerpractico1-dsp.csproj.GenerateResource.cache
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\obj\Debug\MH212532-tallerpractico1-dsp.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\obj\Debug\MH212532-tallerpractico1-dsp.exe
+C:\Users\Lourdes\Documents\GitHub\DSP1-MH212532\MH212532-tallerpractico1-dsp\MH212532-tallerpractico1-dsp\obj\Debug\MH212532-tallerpractico1-dsp.pdb
